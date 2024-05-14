@@ -1,0 +1,14 @@
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\bin\Debug\net8.0\grading-console-application1.exe
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\bin\Debug\net8.0\grading-console-application1.deps.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\bin\Debug\net8.0\grading-console-application1.runtimeconfig.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\bin\Debug\net8.0\grading-console-application1.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\bin\Debug\net8.0\grading-console-application1.pdb
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.AssemblyInfoInputs.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.AssemblyInfo.cs
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.csproj.CoreCompileInputs.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\refint\grading-console-application1.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.pdb
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\grading-console-application1.genruntimeconfig.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-1\grading-console-application1\obj\Debug\net8.0\ref\grading-console-application1.dll
