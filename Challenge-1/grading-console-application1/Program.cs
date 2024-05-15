@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.Security.Cryptography.X509Certificates;
 
 // initialize variables - graded assignments 
 int examAssignments = 5;
@@ -21,7 +23,7 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
 //console application header
-Console.WriteLine("Student\t\tGrade\t\tLetterGrade\n");
+Console.WriteLine("Student\t\tExam Score\t\tOverall\t\tGrade\t\tExtra Credits\n");
 
 //looping through student name
 foreach (string name in studentNames)
@@ -51,8 +53,11 @@ foreach (string name in studentNames)
         continue;
     //total score
     int sumAssignmentScores = 0;
-
+    int extraCreditScores = 0;
+    int extraCreditCounter = 0;
+    decimal ecAverage = 0;
     decimal currentStudentGrade = 0;
+    decimal examGrade = 0;
     //loops through student array
     foreach (int score in studentScores){
         //graded assignment increments
@@ -63,12 +68,16 @@ foreach (string name in studentNames)
         }
         else{
             //adds 10 percent of extra score
-            sumAssignmentScores+= score/10;
+            extraCreditCounter++;
+            extraCreditScores+= score;
         }
-        
     }
+    //extra credit score average
+    ecAverage = (decimal)extraCreditScores/extraCreditCounter;
     //gets the average score
-    currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
+    examGrade = (decimal)sumAssignmentScores / examAssignments;
+    //overall grade
+    currentStudentGrade = (sumAssignmentScores + (extraCreditScores/10))/examAssignments;
 
     //gets the letter grade based on the percentage grade
     if (currentStudentGrade >= 97)
@@ -95,7 +104,7 @@ foreach (string name in studentNames)
         currentStudentLetterGrade = "D";
     else if (currentStudentGrade >= 60)
         currentStudentLetterGrade = "D-";
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}\t\t{examGrade}\t\t{currentStudentGrade}\t\t{currentStudentLetterGrade}\t\t{ecAverage}\t({(currentStudentGrade - examGrade):F2} pts)");
 }
 
 Console.WriteLine("Press the Enter key to continue");
