@@ -23,7 +23,7 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
 //console application header
-Console.WriteLine("Student\t\tExam Score\t\tOverall\t\tGrade\t\tExtra Credits\n");
+Console.WriteLine("Student\t\tExam Score\tOverall\tGrade\t\tExtra Credits\n");
 
 //looping through student name
 foreach (string name in studentNames)
