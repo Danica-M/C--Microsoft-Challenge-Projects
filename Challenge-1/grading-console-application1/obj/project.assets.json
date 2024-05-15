@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#-Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\grading-console-application1.csproj",
+      "projectUniqueName": "C:\\Users\\danic\\GitHub\\C--Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\grading-console-application1.csproj",
       "projectName": "grading-console-application1",
-      "projectPath": "D:\\C#-Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\grading-console-application1.csproj",
+      "projectPath": "C:\\Users\\danic\\GitHub\\C--Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\grading-console-application1.csproj",
       "packagesPath": "C:\\Users\\danic\\.nuget\\packages\\",
-      "outputPath": "D:\\C#-Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\obj\\",
+      "outputPath": "C:\\Users\\danic\\GitHub\\C--Microsoft-Challenge-Projects\\Challenge-1\\grading-console-application1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danic\\AppData\\Roaming\\NuGet\\NuGet.Config",
