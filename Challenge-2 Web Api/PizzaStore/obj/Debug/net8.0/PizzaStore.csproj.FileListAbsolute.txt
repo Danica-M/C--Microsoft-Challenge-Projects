@@ -1,0 +1,98 @@
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\appsettings.json
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.PizzaStore.props
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\scopedcss\bundle\PizzaStore.styles.css
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danic\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danic\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\appsettings.Development.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\appsettings.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.PizzaStore.props
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\scopedcss\bundle\PizzaStore.styles.css
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+D:\C#-Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\appsettings.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.PizzaStore.props
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\scopedcss\bundle\PizzaStore.styles.css
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+C:\Users\danic\GitHub\C--Microsoft-Challenge-Projects\Challenge-2 Web Api\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
